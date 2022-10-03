@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon src/bin/www",
-    "dev": "DEBUG=todo-list:* npm start"
+    "dev": "DEBUG=base-express-app:* npm start"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",

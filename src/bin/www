@@ -5,7 +5,7 @@
  */
 
 const app = require('../app');
-const debug = require('debug')('todo-list:server');
+const debug = require('debug')('base-express-app:server');
 const http = require('http');
 
 /**
